@@ -101,6 +101,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## Miscellaneous
 
+- [30tools](https://30tools.com) - 660+ free online productivity tools (PDF merger, image converter, text tools, QR generator, password generator, unit converters). All browser-based, no signup. [Open Source](https://github.com/SH20RAJ/30tools)
+
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
